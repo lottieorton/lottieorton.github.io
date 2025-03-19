@@ -1,0 +1,31 @@
+* {
+    font-family:'Lucida Sans';
+}
+
+h1 {
+    font-size: 28px;
+    color:aquamarine;
+    background-color:black;
+    text-align: center;
+    opacity: 0.75;
+}
+
+h2 {
+    font-size: 18px;
+    color:crimson;
+}
+
+ul {
+    font-size: 12px;
+    color:chocolate;
+}
+
+img {
+    padding: 20px 50px;
+    width: 400px;
+    position:relative;
+}
+
+.bold {
+    font-weight: bold;
+}
